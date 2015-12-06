@@ -1,0 +1,42 @@
+1
+C is a?
+procedural language
+O-O language
+binary language
+command prompt
+procedural language
+2
+who invented c?
+dennis
+ken thompson
+einsteen
+albert
+dennis
+3
+'for' is a?
+loop
+condition statemnt
+function
+variable
+loop
+4
+Stack is a?
+structure
+union
+array
+data structure
+data structure
+5
+stack is in the form of?
+lifo
+round robbin
+queue
+priority
+lifo
+6
+printf is a?
+function
+algorithm
+statement
+identifier
+function
